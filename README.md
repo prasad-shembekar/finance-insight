@@ -1,6 +1,4 @@
-# finance-insight
-
-![image](https://github.com/prasad-shembekar/finance-insight/assets/89524884/b934feb8-e27d-452f-b2b5-85551a805f11)
+# finance-insight App
 
 For running above webapp...
 
@@ -13,3 +11,4 @@ Step 2:  Running on streamlit server
 streamlit run main.py
 ```
 
+![image](https://github.com/prasad-shembekar/finance-insight/assets/89524884/b934feb8-e27d-452f-b2b5-85551a805f11)
